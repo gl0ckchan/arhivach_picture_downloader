@@ -3,7 +3,8 @@
 
 # Сборка
 ```console
-$ git clone https://github.com/gl0ckchan/arhivach_picture_downloader && cd arhivach_picture_downloader
+$ git clone https://github.com/gl0ckchan/arhivach_picture_downloader
+$ cd arhivach_picture_downloader
 $ go build
 $ ./arhivach_picture_downloader -link <LINK_TO_THREAD> -goroutines 5
 ```
